@@ -1,0 +1,16 @@
+bin/
+dist/
+obj/
+publish/
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.egg-info/
+.vs/
+.idea/
+.vscode/
+*.exe
+*.test
+BypassLinks.Windows/
+extension/
